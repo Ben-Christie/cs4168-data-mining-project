@@ -1,0 +1,1 @@
+Aaron Meade (19271034) - Clustering, Data Preparation and Predictive modelling (Logistic Regression, SVM and Naive Bayes) 
